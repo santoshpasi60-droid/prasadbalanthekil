@@ -145,7 +145,7 @@ export function Home() {
       {/* Why JioHotstar */}
       <section className="max-w-4xl mx-auto px-4 py-16 border-t border-white/10">
         <h2 className="font-display text-3xl text-red-600 mb-6 tracking-wide">
-          Why JioHotstar
+          A Creative Homecoming
         </h2>
         <p className="text-neutral-300 leading-relaxed mb-4">
           For Prasad, this is more than a job application&mdash;it&rsquo;s a creative homecoming.
